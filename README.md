@@ -6,7 +6,7 @@ Example application demonstrates key features of the `flutter_bluetooth_serial` 
 
 + Turning adapter on and off,
 
-+ Opening settings,
++ Opening setting
 
 + Discovering devices (and requesting discoverability),
 
